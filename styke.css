@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+header {
+    background-color: lightblue;
+}
+
+main {
+    background-color: lightyellow;
+}
+
+footer {
+    background-color: lightgreen;
+}
+
+table {
+    border: 1px solid gray;
+}
+
+th, td {
+    border: 1px solid gray;
+}
